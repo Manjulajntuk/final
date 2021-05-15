@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "compilerOptions": {
       "baseUrl": "./src",
       "checkJs": true,
       "jsx": "react"
     }
+=======
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "checkJs": true,
+      "jsx": "react"
+    }
+>>>>>>> 4891e0a92c1b65d1fcd59348d8f1a5da1977da10
   }

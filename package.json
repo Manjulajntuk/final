@@ -166,9 +166,13 @@
     "jsesc": "^2.5.2",
     "json-buffer": "^3.0.0",
     "json5": "^2.2.0",
+<<<<<<< HEAD
     "jsonwebtoken": "^8.5.1",
     "keyv": "^3.1.0",
     "kill-port": "^1.6.1",
+=======
+    "keyv": "^3.1.0",
+>>>>>>> 4891e0a92c1b65d1fcd59348d8f1a5da1977da10
     "kind-of": "^3.2.2",
     "latest-version": "^5.1.0",
     "locate-path": "^3.0.0",
@@ -276,10 +280,17 @@
     "split-string": "^3.1.0",
     "static-extend": "^0.1.2",
     "statuses": "^1.5.0",
+<<<<<<< HEAD
     "string-width": "^4.2.2",
     "string.prototype.trimend": "^1.0.4",
     "string.prototype.trimstart": "^1.0.4",
     "string_decoder": "^1.1.1",
+=======
+    "string_decoder": "^1.1.1",
+    "string-width": "^4.2.2",
+    "string.prototype.trimend": "^1.0.4",
+    "string.prototype.trimstart": "^1.0.4",
+>>>>>>> 4891e0a92c1b65d1fcd59348d8f1a5da1977da10
     "strip-ansi": "^6.0.0",
     "strip-json-comments": "^2.0.1",
     "supports-color": "^5.5.0",
